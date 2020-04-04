@@ -14,6 +14,7 @@ Rodar: ./Bomberman
 CONTROLES:
 
 Jogador 1 : A, W, S, D (movimento), Q (coloca bomba), E (detona bomba se tiver o item detonador).
+
 Jogador 2 : Setas de direção (movimento), Shift Direito (coloca bomba), Ctrl Direito (detona bomba).
 
 O projeto completo consiste em recriar o jogo SuperBomberman da Nintendo com todas suas mecânicas e interações de jogo, visando implementar novos recursos em futuras atualizaçes.
