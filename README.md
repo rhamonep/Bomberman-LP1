@@ -19,6 +19,10 @@ Jogador 2 : Setas de direção (movimento), Shift Direito (coloca bomba), Ctrl D
 
 O projeto completo consiste em recriar o jogo SuperBomberman da Nintendo com todas suas mecânicas e interações de jogo, visando implementar novos recursos em futuras atualizaçes.
 
-No momento segue bem incompleto, quando se fala em termos de interações com usuário antes do inicio de uma partida. A intenção primária foi criar e organizar todas as funções do começo até o fim de uma batalha. Segue um video de uma batalha, que visa mostrar parte das mecânicas implementadas.
+No momento segue bem incompleto, quando se fala em termos de interações com usuário antes do inicio de uma partida. A intenção primária foi criar e organizar todas as funções do começo até o fim de uma batalha. 
+
+Video demonstração de uma batalha, que visa mostrar parte das mecânicas implementadas:
+
+https://youtu.be/btgdFUBeye8
 
 A organização e estruturação do projeto foi pensando em deixar bem modulado, para facilitar a utlização de threads, futuramente. Projeto será levado adiante para outras disciplinas.
