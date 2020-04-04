@@ -51,7 +51,7 @@ int main(){
                     estado = Estado::JOGO;
                     break;
                 case Estado::CRIANDO_MENU:
-                    janela.create(sf::VideoMode(200, 300),"SERIA O MENU... APERTE ESPACO PARA CONTINUAR");
+                    janela.create(sf::VideoMode(500, 300),"SERIA O MENU... APERTE ESPACO PARA CONTINUAR");
 
                     estado = Estado::MENU;
                     break;
